@@ -19,26 +19,6 @@
 - ⚡ Motto: "<em>What you do today can improve all of your tomorrows.</em>" — especially when I am building the future with <strong>AI</strong>.
 </p>
 
-## What can I do:
-
-<table>
-  <tr>
-  <td width="60%">
-  - 🧠 AI/ML Systems & Deep Learning Models
-    </br></br>
-  - 🤖 Agentic AI & Autonomous Workflows
-    </br></br>
-  - 🔍 AI Search & Recommendation Systems
-    </br></br>
-  - 💬 AI Voice & Chat Systems
-    </br></br>
-  - 🌐 Web & Mobile Apps Powered by AI
-    </br></br>
-  - 📈 Intelligent SaaS, CRM, and Automation Tools
-  </td>
-  <td width="35%"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%"/></td>
-</table>
-
 ## My Skills
 
 <table>
