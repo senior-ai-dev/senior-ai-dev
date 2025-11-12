@@ -41,17 +41,14 @@
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/javascript.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/typescript.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/python.png?raw=true" width="200"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg?raw=true" width="200"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/react.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/next.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/laravel.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/node.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/fastapi.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/django.png?raw=true" width="200"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/mongodb.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/mysql.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/postgresql.png?raw=true" width="200"></td>
     <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="200"></td>
@@ -69,13 +66,6 @@
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/zapier.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/n8n.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/react_native.png" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/flutter.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/android.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/iOS.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/blockchain/bitcoin.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/blockchain/ethereum.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/blockchain/solana.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/blockchain/solidity.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/blockchain/NFT.jpg?raw=true" width="200"></td>
   </tr>
 </table>
