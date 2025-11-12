@@ -47,10 +47,10 @@
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/node.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/fastapi.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/django.png?raw=true" width="200"></td>
-  </tr>
-  <tr>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/postgresql.png?raw=true" width="200"></td>
     <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="200"></td>
+  </tr>
+  <tr>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/docker.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/kubernetes.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/aws.png?raw=true" width="200"></td>
