@@ -60,6 +60,5 @@
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/CRM.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/n8n.png?raw=true" width="200"></td>
     <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/react_native.png" width="200"></td>
-    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/blockchain/NFT.jpg?raw=true" width="200"></td>
   </tr>
 </table>
